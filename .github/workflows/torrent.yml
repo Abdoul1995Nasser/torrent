@@ -9,7 +9,7 @@ env:
   comment: " "
   url: https://files.aiti-kace.com.gh/index.php/s/wEQ8GXqwSMYozeC/download
   file_name: "Downloads"
-  piece_size: 6 # Check the README.md for recommended piece size
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
