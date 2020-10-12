@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Google Chrome"
-  comment: "Version 84.0.4147.135 (Official Build) (64-bit)"
+  name: "torrent"
+  comment: " "
   url: https://files.aiti-kace.com.gh/index.php/s/wEQ8GXqwSMYozeC/download
-  file_name: "Google Chrome"
+  file_name: "Downloads"
   piece_size: 6 # Check the README.md for recommended piece size
       
 jobs:
